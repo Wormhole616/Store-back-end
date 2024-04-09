@@ -14,6 +14,13 @@ A robust database utilizing MySql to keep track of the day to day product invent
 ## Usage
 Simply access through command and source the schema.sql file. once sourced proceed by starting the server.
 At this moment the app is not build with a browser interface but can be added on.
+Refer to the following videos for a demonstration of usage 
+
+
+
+https://github.com/Wormhole616/Store-back-end/assets/144727575/5505419d-10e0-4284-95bd-202e01b3e041
+
+
 
 ## Contributions
 Gustavo Duque
@@ -26,6 +33,7 @@ after download deploy terminal and run commands
     -npm start
 
 after, utilize insomnia to manipulate route requests.
+
 
 ## Questions
 email > gustavo.duque616@gmail.com
