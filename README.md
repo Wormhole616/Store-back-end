@@ -9,30 +9,24 @@
 - [Lincese](#License)
 
 ## Description
-A robust database utilizing MySql to keep track of the day to day product inventory for a small business
+A Blog site like for like minded people. The site allows users to register and be able to share ideas/questions about any technological subject
 
 ## Usage
-Simply access through command and source the schema.sql file. once sourced proceed by starting the server.
-At this moment the app is not build with a browser interface but can be added on.
-Refer to the following videos for a demonstration of usage 
+Simple access the deployed site through the a browser and enjoy. For full access user must register first~!
+Click this link for app access
+https://techyminds-2a9e816daf5e.herokuapp.com/
 
-
-
-https://github.com/Wormhole616/Store-back-end/assets/144727575/5505419d-10e0-4284-95bd-202e01b3e041
-
+for a guide on how to interact with the interface, please check my following video
 
 
 ## Contributions
 Gustavo Duque
 
 ## Installation
-download source code from [text](https://github.com/Wormhole616/Store-back-end)
-after download deploy terminal and run commands 
-    -npm install
-    -mysql..
-    -npm start
+User simple needs to login in order to access  the features the app offers.
 
-after, utilize insomnia to manipulate route requests.
+For developers, they may for my repository from my github page here
+https://github.com/Wormhole616/MVC-CMS.git
 
 
 ## Questions
